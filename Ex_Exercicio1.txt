@@ -1,0 +1,40 @@
+			
+Sexo:	MULHER		
+Cervejas:	0		
+Refrigerante:	2		
+Espetinhos:	2		
+			
+Valor da conta:	
+R$ 8,00 	ENTRADA	
+R$ 12,00 	CONSUMO	
+R$ 3,00 	COVERT	
+R$ 23,00 	S/10% GARÇON	
+R$ 25,30 	TOTAL	
+			
+			
+Sexo	HOMEM		
+Cervejas	5		
+Refrigerante	0		
+Espetinhos	2		
+			
+Valor da conta:	 
+R$ 10,00 	ENTRADA	
+R$ 20,50 	CONSUMO	
+R$ -   	COVERT	
+R$ 30,50 	S/ 10% GARÇON	
+R$ 33,55 	TOTAL	
+			
+			
+			
+Sexo:	MULHER		
+Cervejas:	12		
+Refrigerante:	0		
+Espetinhos:	0		
+			
+Valor da conta:
+R$ 8,00 	ENTRADA	
+R$ 30,00 	CONSUMO	
+R$ -   	COVERT	
+R$ 38,00 	S/10% GARÇON	
+R$ 41,80 	TOTAL	
+			

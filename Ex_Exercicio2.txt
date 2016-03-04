@@ -1,0 +1,78 @@
+Exemplo1
+Total de rendimentos bancarios: R$ 1200.00
+Total de rendimentos de salarios ou servicos: R$ 20000.00
+Total de outros rendimentos: R$ 1500.00
+Servicos medicos pagos: R$ 400.00
+Servicos educacionais pagos: R$ 2400.00
+Total de impostos:
+R$ 240,00 (sobre rendimentos bancarios)
+R$ 3000,00 (sobre salarios servicos)
+R$ 150,00 (sobre outros rendimentos)
+R$ 3390,00 (total)
+------------------------------------------
+Maximo a ser abatido:
+R$ 1017,00
+------------------------------------------
+Total de valores possiveis de abater:
+R$ 400,00 (servicos medicos)
+R$ 2400,00 (servicos educacionais)
+R$ 2800,00 (total)
+------------------------------------------
+Imposto total:
+R$ 3390,00 (imposto bruto)
+R$ 1017,00 (abatimentos)
+R$ 2373,00 (total)
+
+
+
+Exemplo2
+Total de rendimentos bancarios: R$ 2000.00
+Total de rendimentos de salarios ou servicos: R$ 7800.00
+Total de outros rendimentos: R$ 3000.00
+Servicos medicos pagos: R$ 500.00
+Servicos educacionais pagos: R$ 100.00
+Total de impostos:
+R$ 400,00 (sobre rendimentos bancarios)
+R$ 0,00 (sobre salarios servicos)
+R$ 300,00 (sobre outros rendimentos)
+R$ 700,00 (total)
+------------------------------------------
+Maximo a ser abatido:
+R$ 210,00
+------------------------------------------
+Total de valores possiveis de abater:
+R$ 500,00 (servicos medicos)
+R$ 100,00 (servicos educacionais)
+R$ 600,00 (total)
+------------------------------------------
+Imposto total:
+R$ 700,00 (imposto bruto)
+R$ 210,00 (abatimentos)
+R$ 490,00 (total)
+
+
+
+Exemplo3
+Total de rendimentos bancarios: R$ 2300.00
+Total de rendimentos de salarios ou servicos: R$ 29000.00
+Total de outros rendimentos: R$ 15000.00
+Servicos medicos pagos: R$ 100.00
+Servicos educacionais pagos: R$ 8600.00
+Total de impostos:
+R$ 460,00 (sobre rendimentos bancarios)
+R$ 5800,00 (sobre salarios servicos)
+R$ 1500,00 (sobre outros rendimentos)
+R$ 77600,00 (total)
+------------------------------------------
+Maximo a ser abatido:
+R$ 2328,00
+------------------------------------------
+Total de valores possiveis de abater:
+R$ 100,00 (servicos medicos)
+R$ 86000,00 (servicos educacionais)
+R$ 8700,00 (total)
+------------------------------------------
+Imposto total:
+R$ 7760,00 (imposto bruto)
+R$ 2328,00 (abatimentos)
+R$ 5432,00 (total)

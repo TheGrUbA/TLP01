@@ -6,22 +6,22 @@ if ($sexo == "m" || $sexo == "M" ){
 }
 else {
 	$entrada = 8;
-}
+}//valor pago pela entrada
 print "Quantas cervejas foram consumidas?";
 $cerva = trim(fgets(STDIN));
 print "Quantos refrigerantes foram consumidos?";
 $refri = trim(fgets(STDIN));
 print "Quantos espetinhos foram consumidos?";
 $espto = trim(fgets(STDIN));
-$vcerva = ($cerva*2.5);
-$vrefri = ($refri*2.0);
-$vespto = ($espto*4);
-$consumaÁ„o = ($vcerva+$vrefri+$vespto);
+$vcerva = ($cerva*2.5);//pre√ßo cerveja
+$vrefri = ($refri*2.0);//pre√ßo refri
+$vespto = ($espto*4);//pre√ßo espeto
+$consuma√ß√£o = ($vcerva+$vrefri+$vespto);//total em consuma√ß√£o
 
 print "\nValor da conta:";
-print "\nR$" . number_format($entrada, 2,',','.') . " (Valor b·sico)";
-print "\nR$" . number_format($consumaÁ„o, 2,',','.') . " (Bebida e comida)";
-if ($consumaÁ„o <= 15 ){
+print "\nR$" . number_format($entrada, 2,',','.') . " (Valor b√°sico)";
+print "\nR$" . number_format($consuma√ß√£o, 2,',','.') . " (Bebida e comida)";
+if ($consuma√ß√£o <= 15 ){
 	$vcover = 3;
 	print "\nR$" . number_format($vcover, 2,',','.') . " (Artista)";
 }
@@ -29,9 +29,9 @@ else {
 	$vcover = 0;
 	print "\nR$" . number_format($vcover, 2,',','.') . " (Artista)";	
 }
-$vsem10 = ($entrada+$consumaÁ„o+$vcover);
-$porcentagem = ((10*$vsem10)/100);
-$total = ($vsem10+$porcentagem);
+$vsem10 = ($entrada+$consuma√ß√£o+$vcover);//subtotal sem 10%
+$porcentagem = ((10*$vsem10)/100);//porcentagem gar√ßon
+$total = ($vsem10+$porcentagem);//valor total da conta
 print "\nR$" . number_format($vsem10, 2,',','.') . " (Subtotal sem 10%)";
 print "\n___________________________________";
 print "\nR$" . number_format($total, 2,',','.') . " (Valor total da conta) ";

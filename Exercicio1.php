@@ -35,3 +35,4 @@ $total = ($vsem10+$porcentagem);//valor total da conta
 print "\nR$" . number_format($vsem10, 2,',','.') . " (Subtotal sem 10%)";
 print "\n___________________________________";
 print "\nR$" . number_format($total, 2,',','.') . " (Valor total da conta) ";
+?>

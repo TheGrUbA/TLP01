@@ -54,5 +54,6 @@ else{
 print "\nR$" . number_format($tabt, 2,',','.') . " (abatimentos)";
 $vsp= ($ti-$tabt);//valor total para pagamento
 print "\nR$" . number_format($vsp, 2,',','.') . " (total)";
+?>
 
 
